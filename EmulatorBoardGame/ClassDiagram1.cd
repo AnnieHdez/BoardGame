@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmulatorBoardGame.GreedyPlayer&lt;TGameKind&gt;">
+    <Position X="11" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GreedyPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmulatorBoardGame.RandomPlayer&lt;TGameKind&gt;">
+    <Position X="8.25" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RandomPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmulatorBoardGame.Game&lt;TGameKind&gt;">
+    <Position X="3.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gCAACAIAAIAAABBEAAQAAAQAAAAAAECAAAAAAQAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="table" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="rules" />
+      <Property Name="Teams" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="EmulatorBoardGame.Player&lt;TGameKind&gt;">
+    <Position X="10" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmulatorBoardGame.TableState&lt;TGameKind&gt;">
+    <Position X="8.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAQAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITableState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmulatorBoardGame.Result&lt;TGameKind&gt;">
+    <Position X="4" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmulatorBoardGame.Team&lt;TGameKind&gt;">
+    <Position X="6.5" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TeamPlayers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmulatorBoardGame.Tournament&lt;TMatch, TGame, TGameKind&gt;">
+    <Position X="0.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAACAAABAAAABAEAAQQAAQAAgAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Tournament.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmulatorBoardGame.IndividualClassification&lt;TMatch, TGame, TGameKind&gt;">
+    <Position X="0.5" Y="8.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>IndividualClassification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmulatorBoardGame.Title&lt;TMatch, TGame, TGameKind&gt;">
+    <Position X="0.75" Y="11.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAIA=</HashCode>
+      <FileName>Title.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmulatorBoardGame.TwoByTwo&lt;TMatch, TGame, TGameKind&gt;">
+    <Position X="3.25" Y="11.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAABAAAAAAAAAEAAAAAAAAAAAAAAAAEAAAAQ=</HashCode>
+      <FileName>TwoByTwo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmulatorBoardGame.Match&lt;TGame, TGameKind&gt;">
+    <Position X="0.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAACAAABAACABAEAAQAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Match.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="EmulatorBoardGame.IGameKind" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGameKind.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EmulatorBoardGame.IRule&lt;TGameKind&gt;">
+    <Position X="6.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IRule.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EmulatorBoardGame.IPlay&lt;TGameKind&gt;">
+    <Position X="12.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPlay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EmulatorBoardGame.IWithDice">
+    <Position X="15.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAgAAAAAAA=</HashCode>
+      <FileName>IWithDice.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EmulatorBoardGame.IWithCards">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IWithCards.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EmulatorBoardGame.IWithBoard&lt;TObject&gt;">
+    <Position X="13.5" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>IWithBoard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EmulatorBoardGame.ISupport">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISupport.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EmulatorBoardGame.ITable&lt;TGameKind&gt;">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>ITable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EmulatorBoardGame.IWayOfPlay&lt;TGameKind&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAACAAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WayOfPlay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

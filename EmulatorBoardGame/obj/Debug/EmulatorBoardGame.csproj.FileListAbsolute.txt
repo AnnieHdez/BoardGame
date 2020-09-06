@@ -1,0 +1,64 @@
+C:\Users\Javi\Desktop\annie3\EmulatorGame\bin\EmulatorBoardGame.dll
+C:\Users\Javi\Desktop\annie3\EmulatorGame\bin\EmulatorBoardGame.pdb
+C:\Users\Javi\Desktop\annie3\EmulatorGame\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+C:\Users\Javi\Desktop\annie3\EmulatorGame\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+C:\Users\Javi\Desktop\annie3\EmulatorGame\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\bin\EmulatorBoardGame.dll
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\bin\EmulatorBoardGame.pdb
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+H:\annie3\EmulatorGame 16 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+H:\annie3\EmulatorGame 16 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+H:\annie3\EmulatorGame 16 abril\bin\EmulatorBoardGame.dll
+H:\annie3\EmulatorGame 16 abril\bin\EmulatorBoardGame.pdb
+H:\annie3\EmulatorGame 16 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+H:\annie3\EmulatorGame 23 abril\bin\EmulatorBoardGame.dll
+H:\annie3\EmulatorGame 23 abril\bin\EmulatorBoardGame.pdb
+H:\annie3\EmulatorGame 23 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+H:\annie3\EmulatorGame 23 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+H:\annie3\EmulatorGame 23 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+D:\Universidad\EmulatorGame 23 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+D:\Universidad\EmulatorGame 23 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+D:\Universidad\EmulatorGame 23 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+D:\Universidad\EmulatorGame 23 abril\bin\EmulatorBoardGame.dll
+D:\Universidad\EmulatorGame 23 abril\bin\EmulatorBoardGame.pdb
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\bin\EmulatorBoardGame.dll
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\bin\EmulatorBoardGame.pdb
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+F:\EmulatorGame 29 abril\bin\EmulatorBoardGame.dll
+F:\EmulatorGame 29 abril\bin\EmulatorBoardGame.pdb
+F:\EmulatorGame 29 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+F:\EmulatorGame 29 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+F:\EmulatorGame 29 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+L:\EmulatorGame 30 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+L:\EmulatorGame 30 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+L:\EmulatorGame 30 abril\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+L:\EmulatorGame 30 abril\bin\EmulatorBoardGame.dll
+L:\EmulatorGame 30 abril\bin\EmulatorBoardGame.pdb
+F:\Universidad\programación\EmulatorGame 1 mayo\bin\EmulatorBoardGame.dll
+F:\Universidad\programación\EmulatorGame 1 mayo\bin\EmulatorBoardGame.pdb
+F:\Universidad\programación\EmulatorGame 1 mayo\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+F:\Universidad\programación\EmulatorGame 1 mayo\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+F:\Universidad\programación\EmulatorGame 1 mayo\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+F:\EmulatorGame 1 mayo mod\bin\EmulatorBoardGame.dll
+F:\EmulatorGame 1 mayo mod\bin\EmulatorBoardGame.pdb
+F:\EmulatorGame 1 mayo mod\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+F:\EmulatorGame 1 mayo mod\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+F:\EmulatorGame 1 mayo mod\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+D:\Universidad\programación\EmulatorGame 1 mayo mod\bin\EmulatorBoardGame.dll
+D:\Universidad\programación\EmulatorGame 1 mayo mod\bin\EmulatorBoardGame.pdb
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csprojResolveAssemblyReference.cache
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
+D:\bin\EmulatorBoardGame.dll
+D:\bin\EmulatorBoardGame.pdb
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorBoardGame\bin\EmulatorBoardGame.dll
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorBoardGame\bin\EmulatorBoardGame.pdb
+C:\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorBoardGame\bin\EmulatorBoardGame.dll
+C:\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorBoardGame\bin\EmulatorBoardGame.pdb
+C:\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.csproj.CoreCompileInputs.cache
+C:\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.dll
+C:\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorBoardGame\obj\Debug\EmulatorBoardGame.pdb
