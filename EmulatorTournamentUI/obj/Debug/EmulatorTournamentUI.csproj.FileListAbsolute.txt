@@ -1,0 +1,256 @@
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\bin\EmulatorTournamentUI.exe.config
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\bin\EmulatorTournamentUI.exe
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\bin\EmulatorTournamentUI.pdb
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorTournamentUI\obj\Debug\App.g.cs
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+C:\Users\Javi\Desktop\annie3\EmulatorGame 9 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+H:\annie3\EmulatorGame 16 abril\bin\EmulatorTournamentUI.exe.config
+H:\annie3\EmulatorGame 16 abril\bin\EmulatorTournamentUI.exe
+H:\annie3\EmulatorGame 16 abril\bin\EmulatorTournamentUI.pdb
+H:\annie3\EmulatorGame 16 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+H:\annie3\EmulatorGame 16 abril\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+H:\annie3\EmulatorGame 16 abril\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+H:\annie3\EmulatorGame 16 abril\EmulatorTournamentUI\obj\Debug\App.g.cs
+H:\annie3\EmulatorGame 16 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+H:\annie3\EmulatorGame 16 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+H:\annie3\EmulatorGame 16 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+H:\annie3\EmulatorGame 16 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+H:\annie3\EmulatorGame 16 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+H:\annie3\EmulatorGame 16 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+H:\annie3\EmulatorGame 23 abril\bin\EmulatorTournamentUI.exe.config
+H:\annie3\EmulatorGame 23 abril\bin\EmulatorTournamentUI.exe
+H:\annie3\EmulatorGame 23 abril\bin\EmulatorTournamentUI.pdb
+H:\annie3\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+H:\annie3\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+H:\annie3\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+H:\annie3\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\App.g.cs
+H:\annie3\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+H:\annie3\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+H:\annie3\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+H:\annie3\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+H:\annie3\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+H:\annie3\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+D:\Universidad\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+D:\Universidad\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+D:\Universidad\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+D:\Universidad\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\App.g.cs
+D:\Universidad\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+D:\Universidad\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+D:\Universidad\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+D:\Universidad\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+D:\Universidad\EmulatorGame 23 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\Tournament.baml
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\App.g.cs
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\bin\EmulatorTournamentUI.exe.config
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\bin\EmulatorTournamentUI.exe
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\bin\EmulatorTournamentUI.pdb
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\test.baml
+C:\Users\Javi\Desktop\annie3\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\test.g.cs
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\Tournament.baml
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\App.g.cs
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+F:\EmulatorGame 29 abril\bin\EmulatorTournamentUI.exe.config
+F:\EmulatorGame 29 abril\bin\EmulatorTournamentUI.exe
+F:\EmulatorGame 29 abril\bin\EmulatorTournamentUI.pdb
+F:\EmulatorGame 29 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+L:\EmulatorGame 30 abril\bin\EmulatorTournamentUI.exe.config
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+L:\EmulatorGame 30 abril\bin\EmulatorTournamentUI.exe
+L:\EmulatorGame 30 abril\bin\EmulatorTournamentUI.pdb
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\Tournament.baml
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\App.g.cs
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+L:\EmulatorGame 30 abril\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+D:\Universidad\programación\EmulatorGame 1 mayo mod\bin\EmulatorTournamentUI.exe.config
+D:\Universidad\programación\EmulatorGame 1 mayo mod\bin\EmulatorTournamentUI.exe
+D:\Universidad\programación\EmulatorGame 1 mayo mod\bin\EmulatorTournamentUI.pdb
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\Tournament.baml
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\App.g.cs
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+D:\Universidad\programación\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\bin\EmulatorTournamentUI.exe.config
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\bin\EmulatorTournamentUI.exe
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\bin\EmulatorTournamentUI.pdb
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\Tournament.baml
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\App.g.cs
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\bin\EmulatorTournamentUI.exe.config
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\bin\EmulatorTournamentUI.exe
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\bin\EmulatorTournamentUI.pdb
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\Tournament.baml
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\App.g.cs
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+F:\EmulatorGame 9 mayo\bin\EmulatorTournamentUI.exe.config
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\Tournament.baml
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\App.g.cs
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+F:\EmulatorGame 9 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+F:\EmulatorGame 9 mayo\bin\EmulatorTournamentUI.exe
+F:\EmulatorGame 9 mayo\bin\EmulatorTournamentUI.pdb
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\bin\EmulatorTournamentUI.exe.config
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\Tournament.baml
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\App.g.cs
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\bin\EmulatorTournamentUI.exe
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\bin\EmulatorTournamentUI.pdb
+K:\EmulatorGame 12 mayo\bin\EmulatorTournamentUI.exe.config
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+K:\EmulatorGame 12 mayo\bin\EmulatorTournamentUI.exe
+K:\EmulatorGame 12 mayo\bin\EmulatorTournamentUI.pdb
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\Tournament.baml
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\App.g.cs
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\bin\EmulatorTournamentUI.exe.config
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\bin\EmulatorTournamentUI.exe
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\bin\EmulatorTournamentUI.pdb
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\bin\EmulatorBoardGame.dll
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\bin\FourInLine.dll
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\bin\Tic Tac Toe.dll
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\bin\EmulatorBoardGame.pdb
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\bin\FourInLine.pdb
+K:\EmulatorGame 12 mayo\EmulatorTournamentUI\bin\Tic Tac Toe.pdb
+D:\EmulatorTournamentUI\bin\EmulatorTournamentUI.exe.config
+D:\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+D:\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+K:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\EmulatorTournamentUI.exe.config
+K:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+K:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\EmulatorTournamentUI.exe.config
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\Tournament.baml
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\App.g.cs
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\EmulatorTournamentUI.exe
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\EmulatorTournamentUI.pdb
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\EmulatorBoardGame.dll
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\FourInLine.dll
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\Tic Tac Toe.dll
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\EmulatorBoardGame.pdb
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\FourInLine.pdb
+F:\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\Tic Tac Toe.pdb
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\bin\EmulatorTournamentUI.exe.config
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.exe
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.pdb
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csprojResolveAssemblyReference.cache
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\MainWindow.baml
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\SelectPlayers.baml
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\Tournament.baml
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\MainWindow.g.cs
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\SelectPlayers.g.cs
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\Tournament.g.cs
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\App.g.cs
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI_MarkupCompile.cache
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.g.resources
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.Properties.Resources.resources
+H:\Datos 2\Universidad\1er Año\programación\2do Proyecto(parte2) Annie Hernández C-122\EmulatorTournamentUI\obj\Debug\EmulatorTournamentUI.csproj.GenerateResource.Cache
