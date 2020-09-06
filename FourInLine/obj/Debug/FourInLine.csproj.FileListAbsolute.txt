@@ -1,0 +1,27 @@
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\FourInLine\obj\Debug\FourInLine.csprojResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\FourInLine\bin\Debug\FourInLine.dll
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\FourInLine\bin\Debug\FourInLine.pdb
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\FourInLine\bin\Debug\EmulatorBoardGame.dll
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\FourInLine\bin\Debug\EmulatorBoardGame.pdb
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\FourInLine\obj\Debug\FourInLine.dll
+C:\Users\Javi\Desktop\EmulatorGame 1 mayo mod\FourInLine\obj\Debug\FourInLine.pdb
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\bin\FourInLine.dll
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\bin\FourInLine.pdb
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\FourInLine\obj\Debug\FourInLine.csprojResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\FourInLine\obj\Debug\FourInLine.dll
+C:\Users\Javi\Desktop\EmulatorGame 8 mayo\FourInLine\obj\Debug\FourInLine.pdb
+F:\EmulatorGame 9 mayo\bin\FourInLine.dll
+F:\EmulatorGame 9 mayo\bin\FourInLine.pdb
+F:\EmulatorGame 9 mayo\FourInLine\obj\Debug\FourInLine.csprojResolveAssemblyReference.cache
+F:\EmulatorGame 9 mayo\FourInLine\obj\Debug\FourInLine.dll
+F:\EmulatorGame 9 mayo\FourInLine\obj\Debug\FourInLine.pdb
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\bin\FourInLine.dll
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\bin\FourInLine.pdb
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\FourInLine\obj\Debug\FourInLine.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\FourInLine\obj\Debug\FourInLine.dll
+C:\Users\Jorge\Desktop\EmulatorGame 10 mayo\FourInLine\obj\Debug\FourInLine.pdb
+K:\bin\FourInLine.dll
+K:\bin\FourInLine.pdb
+K:\EmulatorGame 12 mayo\FourInLine\obj\Debug\FourInLine.csprojResolveAssemblyReference.cache
+K:\EmulatorGame 12 mayo\FourInLine\obj\Debug\FourInLine.dll
+K:\EmulatorGame 12 mayo\FourInLine\obj\Debug\FourInLine.pdb
